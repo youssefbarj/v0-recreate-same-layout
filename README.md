@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![v0-recreate-same-layout](https://github.com/youssefbarj/v0-recreate-same-layout/raw/main/screenshot.png)
+![v0-recreate-same-layout](https://raw.githubusercontent.com/youssefbarj/v0-recreate-same-layout/main/screenshot.png)
 
 ## What this slide does
 
